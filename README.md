@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`]
+Using  Tailwind .
+
+this was a useful re-introduction to Next.js, it's a lot more useful and versatile than i initially tho, even tho i didn't complete this project :
+![image](https://github.com/Ghosty-Rz/movies-website/assets/107633200/a5a2475a-5bfa-43b4-a6ea-0cc5e2d80528)
+![scr](https://github.com/Ghosty-Rz/movies-website/assets/107633200/23d24cc0-0f78-497f-82b9-cb338352839e)
+
+
+
+
+(https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
